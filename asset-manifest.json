@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/marvel-super-war/static/css/main.291306f9.chunk.css",
+    "main.js": "/marvel-super-war/static/js/main.887d770c.chunk.js",
+    "main.js.map": "/marvel-super-war/static/js/main.887d770c.chunk.js.map",
+    "runtime-main.js": "/marvel-super-war/static/js/runtime-main.750a8a56.js",
+    "runtime-main.js.map": "/marvel-super-war/static/js/runtime-main.750a8a56.js.map",
+    "static/css/2.e4aec663.chunk.css": "/marvel-super-war/static/css/2.e4aec663.chunk.css",
+    "static/js/2.1a145ce3.chunk.js": "/marvel-super-war/static/js/2.1a145ce3.chunk.js",
+    "static/js/2.1a145ce3.chunk.js.map": "/marvel-super-war/static/js/2.1a145ce3.chunk.js.map",
+    "index.html": "/marvel-super-war/index.html",
+    "precache-manifest.dc52fb729b779d25fc61f29d70513112.js": "/marvel-super-war/precache-manifest.dc52fb729b779d25fc61f29d70513112.js",
+    "service-worker.js": "/marvel-super-war/service-worker.js",
+    "static/css/2.e4aec663.chunk.css.map": "/marvel-super-war/static/css/2.e4aec663.chunk.css.map",
+    "static/css/main.291306f9.chunk.css.map": "/marvel-super-war/static/css/main.291306f9.chunk.css.map",
+    "static/js/2.1a145ce3.chunk.js.LICENSE.txt": "/marvel-super-war/static/js/2.1a145ce3.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/marvel-super-war/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.750a8a56.js",
+    "static/css/2.e4aec663.chunk.css",
+    "static/js/2.1a145ce3.chunk.js",
+    "static/css/main.291306f9.chunk.css",
+    "static/js/main.887d770c.chunk.js"
+  ]
+}
